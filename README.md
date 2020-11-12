@@ -4,3 +4,4 @@
 - Another test after configuration pulled up from local repository to include-if.
 - A third test after changing email address
 - A fourth test after revamping mba
+- A fifth test after changing email and key
