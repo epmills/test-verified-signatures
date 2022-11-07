@@ -5,3 +5,4 @@
 - A third test after changing email address
 - A fourth test after revamping mba
 - A fifth test after changing email and key
+- A sixth test after adding hardware key
