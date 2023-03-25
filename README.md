@@ -7,4 +7,5 @@
 - A fifth test after changing email and key
 - A sixth test after adding hardware key
 - A seventh test after correcting committer email
+- An eighth test after adding hardware key
 
